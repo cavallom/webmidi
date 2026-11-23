@@ -73,6 +73,13 @@ page on GitHub and submit a pull request.
 
 ## Experiments
 
+* ### [r-Evolution](https://evolutive.buddha.rocks/)
+  Created by: **buddha.rocks**
+  
+  r-Evolution is an experimental, beta-version tool for generating evolving sound streams.
+  It serves as an instrument that helps define the scope and methods for creating "evolutive music"—a contemporary development of generative music.
+  Evolutive music is characterized by its connection to specific events and states; for this reason, it cannot be defined as generative, as it is not self-generating
+  
 * ### [A.I. Duet](https://experiments.withgoogle.com/ai-duet)
   Created by: **Yotam Mann**
 
